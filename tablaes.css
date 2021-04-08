@@ -1,0 +1,22 @@
+table {
+  font-family: cursive;
+  white-space: nowrap;
+}
+
+.pe {
+  background-color: rgb(1, 100, 165);
+  color: azure;
+  border: black;
+}
+table.re {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 3 em;
+}
+
+body {
+  background-color: rgb(87, 186, 252);
+  margin: 0%;
+}
+body.mar {
+  padding-left: 100 em;
+}
