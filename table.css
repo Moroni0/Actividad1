@@ -1,0 +1,26 @@
+table {
+  text-align: left;
+  border-collapse: collapse;
+}
+
+table th {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fila_impar {
+  background-color: darkolivegreen;
+}
+
+.fila_par {
+  background-color: darkorange;
+}
+
+.fila_res {
+  background-color: darksalmon;
+}
+table:nth-child(1) {
+  width: 35%;
+}
+table:last-child {
+  width: 80%;
+}
